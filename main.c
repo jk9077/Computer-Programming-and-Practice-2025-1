@@ -10,7 +10,7 @@
 /* To Do: 반환 타입이 int이고 이름이 five인 함수를 선언해보세요 */
 
 int main() {
-	return five();
+	five();
 }
 
 /* 
